@@ -1,0 +1,28 @@
+{
+    "helpMsg1": [
+        "**Prefix is !**",
+        "```Moderation Commands```",
+        "**ban** - Bans a user",
+        "**unban** - Unbans a user",
+        "**kick** - Kicks a user",
+        "**mute** - Mutes a user",
+        "**warn** - Warns a user"
+      ],
+    "helpMsg2": [
+      "```Useful Commands```",
+      "**ping** - Pings the bot",
+      "**uptime** - Shows how long the bot has been running for",
+      "**invite** - Sends you information on how to invite the Bot.",
+      "**userinfo** - Displays info about your account",
+      "**Support** - Sends you a link to the discord support server for this bot."
+      ],
+     "helpMsg3": [
+       "```Fun Commands```",
+       "**lenny** - Shows you lenny :D",
+       "**rps** - Do rock paper siccors with the bot."
+     ],
+    "helpMsg4": [
+      "```Bot Owner Commands```",
+      "**setgame** - Sets the bot's game"
+    ]
+}

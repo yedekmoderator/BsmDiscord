@@ -1,0 +1,18 @@
+{
+  "name": "moderationbot",
+  "version": "0.3.0",
+  "description": "A moderation bot for all your servers and all your needs.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bdcolby and owie",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.3.2",
+    "discord.js": "^11.3.1",
+    "fs": "0.0.1-security",
+    "moment": "^2.21.0",
+    "snekfetch": "^4.0.0-rc.0"
+  }
+}
